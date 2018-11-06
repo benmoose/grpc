@@ -3,10 +3,11 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/benjaminhadfield/grpc/api"
-	"google.golang.org/grpc"
 	"log"
 	"time"
+
+	"github.com/benjaminhadfield/grpc/api"
+	"google.golang.org/grpc"
 )
 
 func main() {

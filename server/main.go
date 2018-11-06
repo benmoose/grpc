@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github.com/benjaminhadfield/grpc/api"
-	"google.golang.org/grpc"
 	"log"
 	"net"
+
+	"github.com/benjaminhadfield/grpc/api"
+	"google.golang.org/grpc"
 )
 
 func main() {
